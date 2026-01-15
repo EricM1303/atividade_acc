@@ -1,4 +1,4 @@
-# 🌟Book Store API com KarateDSL <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Rja2l3dzV5ZHV6ZjV3czY5NW82OXNkc29wbjI3endmc2l1ZHU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5zI2It7Rg73L5HEdh/giphy.webp" width="50">
+# 🌟Exercise Automatize com Cypress<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Rja2l3dzV5ZHV6ZjV3czY5NW82OXNkc29wbjI3endmc2l1ZHU2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5zI2It7Rg73L5HEdh/giphy.webp" width="50">
 Foi desenvolvido um código em **JavaScript** testando as funcionalidades de registro de usuário do site **Automatize Exercise**, testando a funcionalidade solicitada. O **Cypress** é uma ferramenta desenvolvida para facilitar os testes automatizados, principalmente no front-end, além disso, criado para ser prático e funcional.
 ***
 ## 🚀 Tecnologias utilizadas
